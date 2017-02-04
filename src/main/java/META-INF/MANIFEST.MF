@@ -1,0 +1,3 @@
+Main-Class: com.zillionmile.qrconsole.ZxingImageQR
+Manifest-Version: 1.1
+
